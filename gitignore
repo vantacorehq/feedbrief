@@ -1,0 +1,24 @@
+# Secrets
+.env
+
+# Data written by feedbrief
+data/
+seen_articles.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
